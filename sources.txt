@@ -1,0 +1,7 @@
+https://java.developpez.com/faq/jdbc?page=Informations-sur-les-ResultSet#rowColRS
+https://www.developpez.net/forums/d792643/java/general-java/jdbc/nombre-ligne-d-resultset/
+https://www.java2s.com/Code/Java/Chart/JFreeChartBarChartDemo4withonlytwobars.htm
+https://stackoverflow.com/questions/36171659/cast-defaultcategorydataset-to-categorydataset
+https://www.developpez.net/forums/d1036970/bases-donnees/oracle/sql/recuperer-nombre-d-enregistrements-table-d-base/
+https://www.youtube.com/watch?v=skxH0oX6XlI
+Code donné par M. Amrhein
